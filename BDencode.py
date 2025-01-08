@@ -210,7 +210,7 @@ class EncodingProject:
             "--aq-mode=3",
             "--aq-strength=0.7",
             "--merange=32",
-            "-D=10"
+            "-D 10"
         ]
 
         # 根据 CRF 值动态调整参数
